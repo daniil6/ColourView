@@ -1,3 +1,7 @@
+# Project files
+*.mk
+*.txt
+
 # Prerequisites
 *.d
 
